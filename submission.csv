@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0039754,1,277.1536,16.2 yrs experience; Senior Applied Scientist; response rate 0.81
+CAND_0046064,2,252.9262,8.9 yrs experience; Senior NLP Engineer; response rate 0.78
+CAND_0055905,3,242.7907,8.1 yrs experience; Senior Machine Learning Engineer; response rate 0.87
+CAND_0088025,4,220.5809,8.6 yrs experience; Staff Machine Learning Engineer; response rate 0.83
+CAND_0083307,5,203.4555,7.8 yrs experience; Search Engineer; response rate 0.70
+CAND_0069905,6,192.0138,6.6 yrs experience; Applied ML Engineer; response rate 0.78
+CAND_0064326,7,185.8554,7.6 yrs experience; Search Engineer; response rate 0.94
+CAND_0017960,8,184.9077,7.7 yrs experience; Recommendation Systems Engineer; response rate 0.72
+CAND_0080766,9,181.3025,8.8 yrs experience; Staff Machine Learning Engineer; response rate 0.66
+CAND_0030953,10,176.4711,7.8 yrs experience; Search Engineer; response rate 0.63
+CAND_0010541,11,168.9593,6.2 yrs experience; AI Research Engineer; response rate 0.59
+CAND_0031752,12,162.3992,5.0 yrs experience; ML Engineer; response rate 0.82
+CAND_0008295,13,162.1082,6.5 yrs experience; AI Research Engineer; response rate 0.89
+CAND_0098952,14,161.615,5.5 yrs experience; AI Research Engineer; response rate 0.66
+CAND_0020991,15,158.8113,4.9 yrs experience; Junior ML Engineer; response rate 0.88
+CAND_0099269,16,156.3801,5.5 yrs experience; Data Scientist; response rate 0.33
+CAND_0061175,17,154.3956,6.7 yrs experience; AI Research Engineer; response rate 0.48
+CAND_0044262,18,154.2334,6.9 yrs experience; Data Scientist; response rate 0.73
+CAND_0081321,19,153.9612,5.3 yrs experience; Senior Software Engineer (ML); response rate 0.47
+CAND_0059795,20,153.7798,5.6 yrs experience; Senior Software Engineer (ML); response rate 0.75
+CAND_0040178,21,153.3644,5.0 yrs experience; ML Engineer; response rate 0.55
+CAND_0070525,22,152.14,5.4 yrs experience; Senior Software Engineer (ML); response rate 0.93
+CAND_0040200,23,150.8774,5.5 yrs experience; AI Research Engineer; response rate 0.52
+CAND_0021491,24,150.0443,6.1 yrs experience; AI Research Engineer; response rate 0.61
+CAND_0032089,25,149.0403,6.6 yrs experience; ML Engineer; response rate 0.54
+CAND_0064130,26,148.6197,6.7 yrs experience; AI Research Engineer; response rate 0.67
+CAND_0059017,27,148.3978,6.8 yrs experience; AI Research Engineer; response rate 0.75
+CAND_0006567,28,147.8677,7.9 yrs experience; Senior AI Engineer; response rate 0.79
+CAND_0061819,29,147.8017,5.0 yrs experience; Junior ML Engineer; response rate 0.79
+CAND_0053431,30,147.3517,6.1 yrs experience; ML Engineer; response rate 0.67
+CAND_0055139,31,146.6078,6.9 yrs experience; ML Engineer; response rate 0.25
+CAND_0007596,32,146.4056,4.4 yrs experience; Junior ML Engineer; response rate 0.86
+CAND_0049771,33,146.3609,5.0 yrs experience; AI Research Engineer; response rate 0.81
+CAND_0073883,34,146.3533,5.3 yrs experience; AI Specialist; response rate 0.92
+CAND_0074731,35,146.3186,6.6 yrs experience; Data Scientist; response rate 0.58
+CAND_0017090,36,144.2576,5.5 yrs experience; Senior Software Engineer (ML); response rate 0.71
+CAND_0044091,37,143.9578,6.5 yrs experience; ML Engineer; response rate 0.40
+CAND_0046526,38,143.4825,5.5 yrs experience; ML Engineer; response rate 0.61
+CAND_0073917,39,142.2478,5.8 yrs experience; Data Scientist; response rate 0.46
+CAND_0003609,40,140.9586,6.1 yrs experience; Senior Software Engineer (ML); response rate 0.50
+CAND_0035653,41,140.2273,5.6 yrs experience; Data Scientist; response rate 0.35
+CAND_0028287,42,139.3711,5.7 yrs experience; Data Scientist; response rate 0.60
+CAND_0061156,43,139.03,6.0 yrs experience; Senior Software Engineer (ML); response rate 0.39
+CAND_0005509,44,138.7364,6.0 yrs experience; Data Scientist; response rate 0.40
+CAND_0003791,45,137.0342,6.6 yrs experience; ML Engineer; response rate 0.66
+CAND_0022852,46,136.8539,5.4 yrs experience; AI Research Engineer; response rate 0.86
+CAND_0066791,47,136.4655,5.6 yrs experience; Senior Software Engineer (ML); response rate 0.42
+CAND_0008202,48,136.2456,5.7 yrs experience; Senior Software Engineer (ML); response rate 0.50
+CAND_0099401,49,136.0949,7.7 yrs experience; NLP Engineer; response rate 0.42
+CAND_0091254,50,135.6345,5.2 yrs experience; AI Research Engineer; response rate 0.53
+CAND_0024947,51,135.5025,6.1 yrs experience; AI Research Engineer; response rate 0.79
+CAND_0069220,52,135.4441,5.6 yrs experience; ML Engineer; response rate 0.50
+CAND_0001302,53,135.3416,5.8 yrs experience; Computer Vision Engineer; response rate 0.80
+CAND_0095213,54,134.7831,5.1 yrs experience; ML Engineer; response rate 0.67
+CAND_0061257,55,134.7464,8.0 yrs experience; Staff Machine Learning Engineer; response rate 0.87
+CAND_0082262,56,134.2122,5.9 yrs experience; Senior Software Engineer (ML); response rate 0.64
+CAND_0062707,57,134.1239,5.6 yrs experience; Senior Software Engineer (ML); response rate 0.30
+CAND_0033749,58,133.5061,4.7 yrs experience; Computer Vision Engineer; response rate 0.78
+CAND_0089381,59,131.8196,6.0 yrs experience; Computer Vision Engineer; response rate 0.81
+CAND_0064256,60,131.272,6.4 yrs experience; Junior ML Engineer; response rate 0.86
+CAND_0076412,61,130.9995,5.8 yrs experience; AI Research Engineer; response rate 0.54
+CAND_0025971,62,130.4011,5.4 yrs experience; Junior ML Engineer; response rate 0.34
+CAND_0048375,63,130.0967,4.4 yrs experience; Computer Vision Engineer; response rate 0.83
+CAND_0053472,64,129.8172,6.5 yrs experience; Senior Software Engineer (ML); response rate 0.27
+CAND_0020494,65,129.148,5.9 yrs experience; AI Research Engineer; response rate 0.26
+CAND_0068081,66,129.0088,6.2 yrs experience; Computer Vision Engineer; response rate 0.31
+CAND_0039308,67,128.7979,5.6 yrs experience; AI Research Engineer; response rate 0.36
+CAND_0015097,68,128.3701,6.0 yrs experience; Senior Software Engineer (ML); response rate 0.69
+CAND_0066713,69,128.1411,5.7 yrs experience; Senior Software Engineer (ML); response rate 0.45
+CAND_0014909,70,127.9741,4.8 yrs experience; Computer Vision Engineer; response rate 0.76
+CAND_0000422,71,127.8414,6.3 yrs experience; AI Research Engineer; response rate 0.79
+CAND_0031143,72,126.3531,5.5 yrs experience; ML Engineer; response rate 0.84
+CAND_0080372,73,126.1848,5.2 yrs experience; Computer Vision Engineer; response rate 0.63
+CAND_0054703,74,124.8659,6.8 yrs experience; Computer Vision Engineer; response rate 0.41
+CAND_0077067,75,124.706,5.4 yrs experience; AI Specialist; response rate 0.83
+CAND_0097472,76,123.162,5.8 yrs experience; Junior ML Engineer; response rate 0.36
+CAND_0022870,77,122.6381,6.7 yrs experience; AI Specialist; response rate 0.44
+CAND_0060886,78,121.9163,4.6 yrs experience; Senior Software Engineer (ML); response rate 0.38
+CAND_0069232,79,121.142,6.3 yrs experience; ML Engineer; response rate 0.63
+CAND_0096655,80,120.7914,5.9 yrs experience; Junior ML Engineer; response rate 0.80
+CAND_0070514,81,120.1358,5.5 yrs experience; AI Specialist; response rate 0.80
+CAND_0011489,82,119.7708,5.8 yrs experience; ML Engineer; response rate 0.47
+CAND_0032179,83,119.3791,6.4 yrs experience; Computer Vision Engineer; response rate 0.46
+CAND_0088438,84,118.2376,6.6 yrs experience; Senior Software Engineer (ML); response rate 0.32
+CAND_0089498,85,117.5256,5.8 yrs experience; AI Specialist; response rate 0.40
+CAND_0065501,86,116.243,6.0 yrs experience; Computer Vision Engineer; response rate 0.55
+CAND_0036291,87,115.4212,5.2 yrs experience; Computer Vision Engineer; response rate 0.48
+CAND_0077031,88,115.1577,5.0 yrs experience; Software Engineer; response rate 0.61
+CAND_0056936,89,113.7647,7.8 yrs experience; Senior Data Engineer; response rate 0.37
+CAND_0098288,90,113.4408,6.7 yrs experience; Junior ML Engineer; response rate 0.48
+CAND_0087134,91,112.631,7.8 yrs experience; Senior Data Engineer; response rate 0.68
+CAND_0039546,92,111.9366,6.9 yrs experience; Senior Software Engineer; response rate 0.79
+CAND_0038821,93,111.6741,4.3 yrs experience; AI Specialist; response rate 0.81
+CAND_0080589,94,111.3386,5.7 yrs experience; Computer Vision Engineer; response rate 0.44
+CAND_0074621,95,111.161,5.2 yrs experience; Data Scientist; response rate 0.74
+CAND_0061969,96,111.0194,6.7 yrs experience; Senior Data Engineer; response rate 0.79
+CAND_0077784,97,110.6374,4.4 yrs experience; Data Scientist; response rate 0.42
+CAND_0076959,98,109.7423,7.6 yrs experience; Software Engineer; response rate 0.68
+CAND_0058300,99,109.5304,4.5 yrs experience; AI Research Engineer; response rate 0.52
+CAND_0022413,100,109.2812,5.8 yrs experience; Data Scientist; response rate 0.34
